@@ -1,6 +1,6 @@
 # Core Real Estate - Developing Web Information Systems Final Project
 
-## Project Overview
+## Project Overview 
 This project is a final assignment for the Developing Web Information Systems course. It demonstrates a basic real estate website with user authentication and property listing features.
 
 ## Features
