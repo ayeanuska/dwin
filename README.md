@@ -34,7 +34,7 @@ This project is a final assignment for the Developing Web Information Systems co
 - Prashrijan Shrestha
 - Shubik Bhatt
 - Anuska Shrestha
-- Eliza Khadka
+- Asmita Khadka
 
 ## Acknowledgements
 - Samia Sultana
